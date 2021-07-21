@@ -7,3 +7,5 @@
 | 3  | [Advance your Node.js Skills](https://raw.githubusercontent.com/shravan20/certificates/main/Course-Taken/CertificateOfCompletion_Advance%20your%20Node.js%20Skills-page-001.jpg)  | LinkedIn Learning  | 17 hours 16 mins  | - |
 | 4  | [M001: MongoDB Basics](https://raw.githubusercontent.com/shravan20/certificates/main/Course-Taken/M001_proof_of_completion.jpeg)  | mongoDB University  | 8 hours 30 mins | 94% |
 | 5  | [Automate the Boring Stuff with Python Programming](./AutomatetheBoringStuffwithPythonProgramming.jpg)  | Udemy  | 8 hours 30 mins | - |
+| 6  | [Unit Testing in Java & Spring Boot](https://github.com/shravan20/certificates/tree/main/Course-Taken/Unit%20Testing%20in%20Java%20%26%20Spring%20Boot)  | Pluralsight  | 7 hours | - |
+
