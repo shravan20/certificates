@@ -8,3 +8,4 @@
 | 4  | [Problem Solving (Basic)](https://raw.githubusercontent.com/shravan20/certificates/main/Licenses%20%26%20Certifications/Problem%20Solving(Basic).png) | HackerRank  | ce2d70875cf7  |
 | 5  | [REST API (Intermediate)](https://raw.githubusercontent.com/shravan20/certificates/main/Licenses%20%26%20Certifications/REST%20API%20(Intermediate).png) | HackerRank  | 07d9c5e44288  |
 | 6  | [Python (Basic)](https://raw.githubusercontent.com/shravan20/certificates/main/Licenses%20%26%20Certifications/Python(Basic).png) | HackerRank  | 59e6324e912d  |
+| 7  | [SQL (Basic)](https://raw.githubusercontent.com/shravan20/certificates/main/Licenses%20%26%20Certifications/SQL%20(Basic).png) | HackerRank  | 6d1e4e635619  |
